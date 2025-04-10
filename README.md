@@ -26,7 +26,7 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Edenlynn&repo=sprintboot-vue-demo)](https://github.com/Edenlynn/sprintboot-vue-demo.git)
+[![项目卡片](https://github-readme-stats.vercel.app/api/pin/?username=Edenlynn&repo=sprintboot-vue-demo)](https://github.com/Edenlynn/sprintboot-vue-demo)
 <br><br><br>
 
 ### Github 活跃度
