@@ -28,6 +28,8 @@
 
 <img   align="left" src="https://github-readme-stats.vercel.app/api?username=Edenlynn&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>
 
+<img   align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edenlynn&locale=cn&line_height=33&theme=&langs_count=20&layout=compact"/>
+
 [![](https://activity-graph.herokuapp.com/graph?username=Edenlynn&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Edenlynn's github stats](https://github-readme-stats.vercel.app/api?username=Edenlynn&show_icons=true&theme=vue)
 
